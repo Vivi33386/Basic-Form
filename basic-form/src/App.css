@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(48, 91, 230);
+  color: white;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  margin: 120px auto;
+  max-width: 600px;
+}
+
